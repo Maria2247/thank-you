@@ -1,0 +1,26 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.img {
+    margin: 98px 0 37px;
+}
+
+.title {
+    color: #6b68ec;
+    font-size: 95px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.text {
+    color: #484855;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 26px 0px;
+    line-height: 1.76;
+}
